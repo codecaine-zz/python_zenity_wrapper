@@ -4,6 +4,8 @@ A comprehensive Python wrapper for Zenity dialogs, making it easy to create nati
 
 ![Python Zenity Wrapper Demo](screenshot.png)
 
+> **Note:** A Bun version of this library is available at [bun_zenity](https://github.com/codecaine-zz/bun_zenity).
+
 ## Installation
 
 First, install Zenity on your system:
