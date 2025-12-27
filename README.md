@@ -8,7 +8,21 @@ A comprehensive Python wrapper for Zenity dialogs, making it easy to create nati
 
 ## Installation
 
-First, install Zenity on your system:
+### Install the Python Package
+
+```bash
+# Install from PyPI (once published)
+pip3 install python-zenity-wrapper
+
+# Or install from source
+git clone https://github.com/codecaine-zz/python_zenity_wrapper.git
+cd python_zenity_wrapper
+pip3 install -e .
+```
+
+### Install Zenity (Required)
+
+This package requires Zenity to be installed on your system:
 
 ```bash
 # macOS
